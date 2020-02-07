@@ -1,3 +1,11 @@
+"""
+Written by Rizwan Khan Indian Institute of Technalogy Patna, Take a little help
+from some tutorials as i have mensioned in 
+Readme file. You are free to use this source code anywhere, No copywrite.
+"""
+
+
+
 import cv2
 import os
 from time import sleep
