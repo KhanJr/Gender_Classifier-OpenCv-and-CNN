@@ -1,5 +1,5 @@
 # Gender_Classifier-OpenCv-and-CNN
-# Lets get walk threw this assignment 
+## Lets get walk threw this project
 #### First let's have a taste of my code
 ![Detected_Image](Test_Subject/test1.png)
 
